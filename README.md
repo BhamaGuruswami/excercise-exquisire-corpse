@@ -1,5 +1,6 @@
  #        The strange Panda
-In a zoo there was a **panda**. He was a peculiar panda. It is rumored that he can talk to the ghosts. 
+In a zoo there was a **panda**. He was a peculiar panda. 
+It is rumored that he can talk to the ghosts. 
 One day he heard a voice saying, **"I have come to haunt you..."** 
 ***"Who is this?"*** Said the panda with a scared voice.
 "It's your father,**Poh."** 
